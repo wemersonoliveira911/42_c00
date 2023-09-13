@@ -31,3 +31,10 @@ void	ft_is_negative(int n)
 		ft_putchar('P');
 	}
 }
+/*
+int     main() {
+        ft_is_negative(1);
+
+        return 0;
+}
+*/
